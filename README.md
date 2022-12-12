@@ -6,10 +6,9 @@
     <li>Apaixonado por Arte e Design</li>
     <li>Formado em Banco de Dados</li>
 </ul>
-<div align="center">
+<div align="left">
   <a href="https://github.com/Rafa-py">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafa-py&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-py&layout=compact&langs_count=7&theme=gotham"/>
 </div>  
     
 ##
@@ -37,3 +36,4 @@
  <a href="https://rafa-py.github.io/portfolio-redisign/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
 
+ ![Snake animation](https://github.com/Rafa-py/Rafa-py/blob/output/github-contribution-grid-snake.svg)
