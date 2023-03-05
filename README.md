@@ -2,9 +2,10 @@
 
 <h3>Sobre mim:</h3>
 <ul>
-    <li>Programador Front End em construção 🚧</li>
-    <li>Apaixonado por Arte e Design</li>
-    <li>Formado em Banco de Dados</li>
+    <li>Professor de Programação 💡</li>
+    <li>Programador Front End 💻</li>
+    <li>Apaixonado por Arte, Design 🖌</li>
+    <li>Formado em Banco de Dados 🗄</li>
 </ul>
 <div align="left">
   <a href="https://github.com/Rafa-py">
