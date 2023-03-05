@@ -4,7 +4,7 @@
 <ul>
     <li>Professor de Programação 💡</li>
     <li>Programador Front End 💻</li>
-    <li>Apaixonado por Arte, Design 🖌</li>
+    <li>Apaixonado por Arte e Design 🖌</li>
     <li>Formado em Banco de Dados 🗄</li>
 </ul>
 <div align="left">
