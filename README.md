@@ -22,7 +22,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://img.icons8.com/?size=256&id=pIJdjOoL6KfU&format=png">
       <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://img.icons8.com/?size=256&id=fAMVO_fuoOuC&format=png">
   <img align="center" alt="Rafa-mySQL" height="30" width="40" src="https://img.icons8.com/?size=256&id=9nLaR5KFGjN0&format=png">
-      <img align="center" alt="Rafa-mongo" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-226029.png?f=webp&w=256">
+      <img align="center" alt="Rafa-mongo" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-3-1175138.png?f=webp&w=256">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
