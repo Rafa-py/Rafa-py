@@ -6,6 +6,8 @@
     <li>Programador Front End 💻</li>
     <li>Apaixonado por Arte e Design 🖌</li>
     <li>Formado em Banco de Dados 🗄</li>
+    <li>Graduando em Ciência da Computação 🖥️</li>
+    <li>Pós Graduado em Docência do Ensino Superior e Programação Full Stack 🎓</li>
 </ul>
 <div align="left">
   <a href="https://github.com/Rafa-py">
@@ -21,7 +23,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-SASS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Rafa-TAILWIND" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Rafa-TAILWIND" height="30" width="40" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" />
   <img align="center" alt="Rafa-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="center" alt="Rafa-WORDPRESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
   <img align="center" alt="Rafa-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />         
