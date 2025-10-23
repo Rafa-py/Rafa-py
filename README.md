@@ -6,7 +6,6 @@
     <li>Programador Front End 💻</li>
     <li>Apaixonado por Arte e Design 🖌</li>
     <li>Formado em Banco de Dados 🗄</li>
-    <li>Graduando em Ciência da Computação 🖥️</li>
     <li>Pós Graduado em Docência do Ensino Superior e Programação Full Stack 🎓</li>
 </ul>
 <div align="left">
@@ -42,5 +41,3 @@
  <a href="https://web.whatsapp.com/send?phone=5511937183822" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  <a href="https://rafa-py.github.io/portfolio-redisign/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
-
- ![Snake animation](https://github.com/Rafa-py/Rafa-py/blob/output/github-contribution-grid-snake.svg)
