@@ -8,11 +8,7 @@
     <li>Formado em Banco de Dados 🗄</li>
     <li>Pós Graduado em Docência do Ensino Superior e Programação Full Stack 🎓</li>
 </ul>
-<div align="left">
-  <a href="https://github.com/Rafa-py">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafa-py&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-</div>  
-    
+
 ##
 
 <h3>Tecnologias que uso no dia a dia:</h3>
